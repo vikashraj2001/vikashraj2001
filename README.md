@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently mastering **the full stack development.**
 
-- 👯 Building Highly Scalable Web Application **Building Highly Scalable Web Application**
+- 👯 Building Highly Scalable Web Application 
 
 - 💬 Ask me about **Java , Springboot and Frontend**
 
